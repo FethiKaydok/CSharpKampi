@@ -1,0 +1,14 @@
+C:\Users\kaan_\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\kaan_\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\kaan_\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\kaan_\source\repos\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\kaan_\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\kaan_\source\repos\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\kaan_\Desktop\C#\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
