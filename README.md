@@ -17,3 +17,5 @@ Bu projede; dizi oluşturmayı, dizileri nerede kullanacağımı ve dizilerle ne
 Bu projede, foreach döngüsünü kullanmayı öğrendim ve sınav sistemi uygulaması yaptım.
 ## 📍 Proje 8: Methods
 Bu projede metotları kullanarak daha az kod yazarak daha fazla işlem yapmayı öğrendim.
+
+Bu kursu sağladığı için Murat Yücedağ hocama teşekkür ediyorum.
